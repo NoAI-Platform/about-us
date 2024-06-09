@@ -1,5 +1,7 @@
 
 ## The Core Team
+The interdisciplinary team has a strong track record (funded by Vetenskapsrådet, Vinnova, Formas, etc) of building end-to-end software platforms including high bandwidth automotive multimodal data collection, large-scale data management and automated annotation, front-end implementation and UX design, as well as traffic safety research, intersectional disability research, and traffic medicine. We are committed to advancing the field of AI-driven traffic safety by developing innovative solutions that are both user-friendly and inclusive. 
+
 ### Academic Partners
 - [Dr. Yinan Yu](https://www.chalmers.se/en/persons/yinan/) (Project Leader),  Assistant Professor in AI, Data Science, and Signal Processing, Computer Science and Engineering, Chalmers University of Technology, Sweden
   - Improving AI explainability and usability, reducing bias in AI, multimodal learning algorithm development, automated machine learning, large-scale data management 
