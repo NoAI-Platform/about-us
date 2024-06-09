@@ -13,4 +13,11 @@
 - [Helene Pilström](https://www.boid.se/en/), Boid Design Studio
   - Front-end design, user journey studies, user experience (UX) design, interactive prototyping 
 - [Samuel Scheidegger](https://www.asymptotic.ai/), Asymtptotic AI
-  - Back-end development and hosting, AI algorithm validation and deployment, cloud infrastructure, data security
+  - Back-end development and hosting, AI algorithm validation and deployment, cloud infrastructure, data privacy and security
+  - Relevant projects:
+    - [SHAPE-IT](https://www.shape-it.eu/consortium/) - Supporting the interaction of Humans and Automated vehicles: Preparing for the Environment of Tomorrow (associated partners)
+    - Safety-Driven Data Annotation Platform to Enable Safe and Responsible AI (funded by Vinnova [2020-02952])
+    - [IGLAD](http://www.iglad.net/) - Initiative for the Global harmonisation of Accident Data (consortium and data processing partner)
+    - A Toolkit for Quality Control of Vehicle Perception Data for Trusted AI (funded by Vinnova [2021-02577])
+    - Fast and Scalable Pipeline to Enable AI with Big Data (funded by Vinnova [2019-04115])
+    
