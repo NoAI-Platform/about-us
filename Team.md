@@ -15,7 +15,7 @@ The interdisciplinary team has a strong track record (funded by Vetenskapsrådet
 - [Helene Pilström](https://www.boid.se), Boid Design Studio
   - Front-end design, user journey studies, user experience (UX) design, interactive prototyping
   - Relevant projects:
-    - [”Den självklara bytespunkten”](https://www.ri.se/sv/vad-vi-gor/projekt/den-sjalvklara-bytespunkten) user studies and design of exchange points that are more self-explanatory (funded by Vinnova [2023-03050])
+    - [”Den självklara bytespunkten”](https://www.ri.se/sv/vad-vi-gor/projekt/den-sjalvklara-bytespunkten) user studies and design of public transportation exchange points that are more self-explanatory and accessible (funded by Vinnova [2023-03050])
     - Mobilitet på lika villkor (funded by Skyltfonden TRV [2019/28181]) & El för alla (funded by Promobilia [A22086]) mapping the needs and challenges to accessible, independent and safe (electro)mobility.
     - Sakta i backarna- interdisciplinary investigation to identify opportunities to create a dynamic brake for walkers that can facilitate walking in downhill slopes (funded by Skyltfonden [2022/27407])
     - [Mapping tool](https://www.boid.se/projekt/laddstationskartan) for Swedish charging infrastructure - a digital map and geographic concentration of infrastructure ([Energimyndigheten] Duration: 2015 – Ongoing)
