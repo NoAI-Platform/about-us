@@ -24,6 +24,8 @@ The interdisciplinary team has a strong track record (funded by Vetenskapsrådet
 - [Samuel Scheidegger](https://www.asymptotic.ai/), Asymtptotic AI
   - Back-end development and hosting, AI algorithm validation and deployment, cloud infrastructure, data privacy and security
   - Relevant projects:
+    - [PreMAT](https://www.vinnova.se/en/p/premat---predictive-monitoring-for-autonomous-trucks/): This project aims to enhance the safety and early testing of autonomous vehicles by ensuring they stay within predefined areas, reducing testing risks and stress for human monitors (funded by Vinnova [2021-05052]) 
+    - [Evident](https://www.vinnova.se/en/p/enabling-virtual-validation-and-verification-for-adas-and-ad-features/): This project aims to improve virtual testing for vehicle safety features, reducing the need for real-world testing (funded by Vinnova [2021-05043])
     - [SHAPE-IT](https://www.shape-it.eu/consortium/) - Supporting the interaction of Humans and Automated vehicles: Preparing for the Environment of Tomorrow (associated partners)
     - Safety-Driven Data Annotation Platform to Enable Safe and Responsible AI (funded by Vinnova [2020-02952])
     - [IGLAD](http://www.iglad.net/) - Initiative for the Global harmonisation of Accident Data (consortium and data processing partner)
